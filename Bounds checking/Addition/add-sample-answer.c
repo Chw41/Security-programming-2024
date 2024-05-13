@@ -10,6 +10,7 @@ int main()
     while(S<N){
         int si1=0,si2=0,result=0;
         scanf("%d %d", &si1, &si2);
+        // 合法範圍: -2147483648 ~ 2147483647
         /* 
         si1+si2 > MAX or si1+si2 < min
         = si1 > MAX-si2 or si1 < min-si2
