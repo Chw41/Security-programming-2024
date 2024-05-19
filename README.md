@@ -3,28 +3,21 @@
 ```
 .
 ├── README.md
-└── Bounds checking
-    ├── Test
-    │   ├── Topic.pdf
-    │   └── helloworld.c
-    │
-    ├── Addition
-    │   ├── Topic.pdf
-    │   ├── add-sample.c
-    │   └── add-sample-answer.c
-    │
-    ├── Subtraction
-    │   ├── Topic.pdf
-    │   ├── subtraction-sample.c
-    │   └── subtraction-sample-answer.c
-    │
-    ├── Division
-    │   ├── Topic.pdf
-    │   ├── division-sample.c
-    │   └── division-sample-answer.c
-    │
-    └── Multiplicaion
-        ├── Topic.pdf
-        ├── multiplication-sample.c
-        └── multiplication-sample-answer.c
+├── Bounds checking
+│   ├── README.md
+│   ├── Test/
+│   ├── Addition/
+│   ├── Subtraction/
+│   ├── Division/
+│   └── Multiplicaion/
+└── String Safety and Buffer Overflow
+    ├── GDB & Binary Exploitation.md
+    └── CTF lab
+        ├── 112-2 NTUT 安全程式設計 Lab.md
+        ├── Practice01/
+        ├── Practice02/
+        ├── Practice03/
+        ├── Practice04/
+        └── Practice05/
+
 ```
