@@ -13,7 +13,7 @@
 └── String Safety and Buffer Overflow
     ├── GDB & Binary Exploitation.md
     └── CTF lab
-        ├── 112-2 NTUT 安全程式設計 Lab.md
+        ├── 112-2 NTUT 安全程式設計 Lab writeup
         ├── Practice01/
         ├── Practice02/
         ├── Practice03/
