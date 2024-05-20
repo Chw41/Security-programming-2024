@@ -213,3 +213,6 @@ Pwntools 學習資源: https://github.com/Gallopsled/pwntools-tutorial
 用於自動化ROP鏈構建的工具，可以在二進制文件中搜索可用的gadgets。
 #### 4. radare2
 一個開源的逆向工程框架，提供了二進制分析、調試和利用工具。
+
+# 安全程式設計 Lab
+[112-2 NTUT 安全程式設計 Lab - 字串安全與緩衝區溢位 Writeup](https://github.com/Chw41/Security-programming-2024/tree/main/String%20Safety%20and%20Buffer%20Overflow/CTF%20lab)
