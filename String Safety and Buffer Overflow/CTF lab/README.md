@@ -266,7 +266,7 @@ gef➤ quit
 
 $ chmod +x practice03 
 
-$ dgb -q practice03
+$ gdb -q practice03
 ```
 > practice03 新增執行權限
 > $ ls -al 檢查
