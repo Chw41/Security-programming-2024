@@ -10,6 +10,9 @@ disqus: hackmd
 
 [TOC]
 
+# GDB & Binary Exploitation Introduction
+[Github](https://github.com/Chw41/Security-programming-2024/tree/main/String%20Safety%20and%20Buffer%20Overflow) & [HackMD](https://hackmd.io/@CHW/rJubmdv70)
+
 # LAB 設計理念
 ![image](https://hackmd.io/_uploads/SypP1PvQ0.png)
 
