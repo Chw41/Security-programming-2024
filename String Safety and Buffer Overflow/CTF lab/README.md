@@ -278,7 +278,7 @@ gef➤ r
 > rbp 指向 main 的 next_rip
 
 ### 4. 修改rip 指向
-rip 指向 Flag()
+rip 指向 Flag()\
 ![image](https://hackmd.io/_uploads/ryk1JH_7A.png)
 
 ```
